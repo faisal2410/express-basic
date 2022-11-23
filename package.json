@@ -1,0 +1,17 @@
+{
+  "name": "express-basic",
+  "version": "1.0.0",
+  "description": "Learning express",
+  "main": "server.js",
+  "scripts": {
+    "start-dev": "nodemon server.js"
+  },
+  "author": "Faisal ahmed",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
